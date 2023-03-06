@@ -4,5 +4,3 @@
 
 ![Design BYAcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=designbyacar&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
